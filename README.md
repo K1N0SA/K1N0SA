@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amar Sonik
+#  Amar Sonik
 
 🚀 DevOps Enthusiast | ☸️ Kubernetes Learner | 🔐 Infosec Speaker  
 
