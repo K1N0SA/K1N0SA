@@ -1,4 +1,4 @@
-#  Amar Sonik
+#  Amar Sonik aka K1N0SA
 
 🚀 DevOps Enthusiast | ☸️ Kubernetes Learner | 🔐 Infosec Speaker  
 
